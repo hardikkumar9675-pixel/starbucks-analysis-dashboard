@@ -64,7 +64,7 @@ Business Insight Generation
 
 (Add your dashboard screenshot here)
 
-![Starbucks Dashboard](dashboard.png)
+![Starbucks Dashboard](https://github.com/hardikkumar9675-pixel/starbucks-analysis-dashboard/blob/main/starbucks-dashboard.png)
 👤 Author
 
 Hardik Kumar
